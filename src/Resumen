@@ -1,0 +1,20 @@
+El programa tiene 3 clases Mascota ,Perro y Gato empezando por la clase Mascota
+este posee dos atributos que heredaran las dos ultimas clases ya mencionadas los cuales son
+#nombre:String y#edad: int tambien presenta 3 metodos +Mascota(nombre, int), +hacerSonido(): void y
++mostrarInfo(): void
+
+A continuacion se muestran dos flechas que indican que las clases Gato y Perro heredan atributos
+de la clase Mascota
+
+La clase Perro presenta el atributo -raza: String ademas mas abajo presenta los metodos
++Perro(...), +hacerSonido(): void y +mostrarInfo(): void que dependen de la clase mascota
+
+La clase Gato  presenta el atributo -esDeInterior: boolean despues mas abajo estan los metodos
++Gato(...), +hacerSonido(): void y +mostrarInfo(): void
+
+
+
+
+
+
+
